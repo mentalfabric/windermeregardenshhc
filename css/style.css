@@ -1,0 +1,42 @@
+/*General*/
+
+html{
+    margin-top: 0px;
+    background: #eaeaea;
+    padding: 0px 100px;
+}
+
+ul{
+    list-style: none;
+}
+
+.fa{
+    color: #FFFFFF;
+}
+
+/*Header*/
+
+.header-bar{
+    background-color: #144a80;
+    border-bottom: 10px solid #4d90c4;
+    color: #FFFFFF;
+    padding: 20px 0px;
+}
+
+.phone-number{
+    font-size: 20px;
+}
+
+ul .social-media{
+    background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,0.8) 25%,rgba(255,255,255,0.8) 75%,rgba(255,255,255,0) 100%);
+    border: none;
+}
+.social-media li, #nav-container ul li{
+    text-align: center;
+    display: inline-block;
+}
+
+.services-menu{
+    text-align: right;
+    display: inline;
+}
