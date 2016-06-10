@@ -30,6 +30,7 @@ ul{
 ul .social-media{
     background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,0.8) 25%,rgba(255,255,255,0.8) 75%,rgba(255,255,255,0) 100%);
     border: none;
+    float: right;
 }
 .social-media li, #nav-container ul li{
     text-align: center;
@@ -40,3 +41,63 @@ ul .social-media{
     text-align: right;
     display: inline;
 }
+
+/*Content*/
+
+.main-article{
+    text-align: center;
+}
+
+.areas, .main-article h5, .main-article h1{
+    color: #144a80;
+}
+
+.inside-out{
+    background-color: #144a80;
+    color: #FFFFFF;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.view-pos{
+    background-color: #144a80;
+    color: #FFFFFF;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/*Side Bar*/
+
+#sidebar{
+    padding-top: 60px;
+}
+
+.widget-container-1{
+    max-width: 100%;
+    background-color: #FFFFFF;
+    margin-bottom: 4.4rem;
+    display: block;
+    padding: 2px 0px;
+
+}
+
+.widget-nav li{
+    background-color: #144a80;
+    padding: 2px 0px;
+    border-radius: 4px;
+    border: none;
+}
+
+.widget-nav li a{
+    font-size: 22px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+/*Footer*/
+
+footer, footer a{
+    background-color: #144a80;
+    color: #FFFFFF;
+}
+
